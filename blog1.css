@@ -137,6 +137,13 @@ body {
     padding-bottom: 15px;
 }
 
+.credit{
+    font-size: 5px;
+    font-style: italic;
+    line-height: 1.5;
+    color: black;
+    padding-bottom: 15px;
+}
 
 .footer{
     display: flex;
